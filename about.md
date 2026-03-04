@@ -14,4 +14,4 @@ State University.
 
 [![LinkedIn](../assets/linkedin.jpg)Noah Greene](https://www.linkedin.com/in/noah-greene-760091196/)
 
-[![Instagram](../assets/instagram.png)@tem.ber.lin](https://instagram.com/tem.ber.lin?igshid=byqa48kh1rxv)
+[![Instagram](../assets/instagram.jpg)@tem.ber.lin](https://instagram.com/tem.ber.lin?igshid=byqa48kh1rxv)
