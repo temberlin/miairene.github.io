@@ -7,7 +7,7 @@ id: About
 
 Noah Greene (aka temberlin) is a video editor and motion designer in Los Angeles, CA. Noah earned their Bachelor of Science
 in Digital Media Production and Pure Mathematics from Florida
-State University in 2021. 
+State University. 
 
 
 [![Email](../assets/email.png) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
