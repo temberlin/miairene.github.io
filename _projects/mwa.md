@@ -9,8 +9,8 @@ order: 666
 watch_link: 'https://mwatrailers.com/'
 ---
 
-Motion graphics design for movie trailer titles, freelancing at Mark Woolen & Associates. 
+Motion graphics design for hundreds of movie trailer titles, freelancing at Mark Woolen & Associates. 
 
-On Mark Woolen: “If there’s an auteur in the trailer industry—he’s it.” - <a
+Press for Mark Woolen: “If there’s an auteur in the trailer industry—he’s it.” - <a href="https://www.wired.com/2013/06/online-trailers-mark-woollen/">Wired</a> 
 
 Motion Designer 2025-2026
