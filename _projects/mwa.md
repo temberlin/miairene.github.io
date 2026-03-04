@@ -2,9 +2,9 @@
 title: Mark Woolen & Associates
 card_pic: 'mwa_01.jpg'
 images:
-    - 'mwa_02.png'
+    - 'mwa_02.jpg'
     - 'mwa_01.jpg'
-    - 'mwa_03.png'
+    - 'mwa_03.jpg'
 order: 666
 watch_link: 'https://mwatrailers.com/'
 ---
