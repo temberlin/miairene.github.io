@@ -2,8 +2,8 @@
 title: Zackary Drucker
 card_pic: 'stroll1.png'
 images:
+    - 'queenmaker1.png'
     - 'stroll2.png'
-    - 'stroll3.png'
     - 'stroll1.png'
 order: 20
 watch_link: 'https://www.zackarydrucker.com/'
