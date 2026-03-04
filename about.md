@@ -10,7 +10,7 @@ in Digital Media Production and Pure Mathematics from Florida
 State University. 
 
 
-[![Email](../assets/email.png) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
+[![Email](../assets/email.jpg) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
 
 [![LinkedIn](../assets/linkedin.jpg) Noah Greene](https://www.linkedin.com/in/noah-greene-760091196/)
 
