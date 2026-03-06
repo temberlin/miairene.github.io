@@ -11,6 +11,18 @@ watch_link: 'https://boneyard.camp/'
 
 Multimedia virtual festival livestreamed annually.
 
+Visuals <a href="https://www.youtube.com/watch?v=k1jsk_8yn9Q">'Alexander Panos'</a> 2025
+
+Visuals <a href="https://youtu.be/tCMWsFn-sVs&t=34">'ANYWHERE BUT HERE!'</a> 2025
+
+Visuals <a href="https://youtu.be/uEbYIjvwzc8&t=1377">'sero b2b Lightris'</a> 2025
+
+Visuals <a href="https://youtu.be/uEbYIjvwzc8&t=707">'Felimos'</a> 2025
+
+Visuals <a href="https://youtu.be/qYTN1TTdGBM">'PRADAFURSUIT'</a> 2025
+
+Organized zine "Obituaries" 2025
+
 Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=_VdNkETf3CI">'leastfavorite!'</a> 2025
 
 Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=1O8PQuiFdrs">'rouri404 b2b 31sentinel b2b evan sasha'</a> 2025
