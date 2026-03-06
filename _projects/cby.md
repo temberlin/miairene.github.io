@@ -21,7 +21,7 @@ Visuals <a href="https://youtu.be/uEbYIjvwzc8&t=707">'Felimos'</a> 2025
 
 Visuals <a href="https://youtu.be/qYTN1TTdGBM">'PRADAFURSUIT'</a> 2025
 
-Organized zine "Obituaries" 2025
+Organized zine 'Obituaries' 2025
 
 Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=_VdNkETf3CI">'leastfavorite!'</a> 2025
 
