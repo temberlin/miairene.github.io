@@ -22,4 +22,4 @@ Selected works: <br>
 <a href="https://www.youtube.com/watch?v=Ho10_4IX1jE">Practical Magic 2</a>
 
 
-Motion Designer 2025-Current
+Motion Designer 2025-Present
