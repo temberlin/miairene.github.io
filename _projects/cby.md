@@ -11,6 +11,8 @@ watch_link: 'https://boneyard.camp/'
 
 Multimedia virtual festival livestreamed annually.
 
+Live visuals ANYWHEREBUTHERE!, Shifting Perspectives, DJ Re:Code, Ryan Leahan 2026
+
 Visuals <a href="https://www.youtube.com/watch?v=k1jsk_8yn9Q">'Alexander Panos'</a> 2025
 
 Visuals <a href="https://youtu.be/tCMWsFn-sVs&t=34">'ANYWHERE BUT HERE!'</a> 2025
@@ -50,6 +52,4 @@ Assist Visuals <a href="https://youtu.be/rJ-lGbRoAhY&t=6672">'Finley'</a> 2023
 Assist Visuals <a href="https://youtu.be/qjB6DVqK4bw&t=5533">'Dashie'</a> 2023
 
 
-Animator 2023<br>
-Manager & Animator 2024<br>
-Manager & Animator 2025
+Manager & Animator 2023-Current
