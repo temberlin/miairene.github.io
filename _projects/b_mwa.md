@@ -19,7 +19,12 @@ Selected works: <br>
 <a href="https://www.youtube.com/watch?v=job8V254NAE">Digger</a><br>
 <a href="https://www.instagram.com/p/DbV0JE_iSJx/">Behemoth</a> <br>
 <a href="https://www.youtube.com/watch?v=C0uuH03Wnks">Tiny Fugitives</a> <br>
-<a href="https://www.youtube.com/watch?v=Ho10_4IX1jE">Practical Magic 2</a>
+<a href="https://www.youtube.com/watch?v=Ho10_4IX1jE">Practical Magic 2</a><br>
+<a href="https://www.youtube.com/watch?v=KBJllQVRuAA">The Polygamist</a><br>
+<a href="https://www.youtube.com/watch?v=jkUw2nh6fT0">Carrie</a><br>
+<a href="https://www.youtube.com/watch?v=rdlOZhl-nSA">Tuner</a><br>
+<a href="https://www.youtube.com/watch?v=EhffABvfAW0">The Revenant 10th Anniversary</a><br>
+<a href="https://www.youtube.com/watch?v=_Nk8TrBHOrA">Train Dreams</a>
 
 
 Motion Designer 2025-Present
