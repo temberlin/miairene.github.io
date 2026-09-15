@@ -52,4 +52,4 @@ Assist Visuals <a href="https://youtu.be/rJ-lGbRoAhY&t=6672">'Finley'</a> 2023
 Assist Visuals <a href="https://youtu.be/qjB6DVqK4bw&t=5533">'Dashie'</a> 2023
 
 
-Manager & Animator 2023-Current
+Manager & Animator 2023-Present
