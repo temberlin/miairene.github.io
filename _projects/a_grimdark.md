@@ -11,6 +11,6 @@ watch_link: 'https://www.youtube.com/watch?v=7ncvKmp67yM'
 
 Music video for 'Grimdark' by Saoirse Dream.
 
-Learn more about the process <a href="https://www.youtube.com/playlist?list=PLbKXEVH3hkfY">'here!'</a>
+Learn more about the process <a href="https://www.youtube.com/playlist?list=PLbKXEVH3hkfY">here!</a>
 
 Director, Animator 2026
