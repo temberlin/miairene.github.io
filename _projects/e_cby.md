@@ -9,7 +9,7 @@ order: 20
 watch_link: 'https://boneyard.camp/'
 ---
 
-Multimedia virtual festival livestreamed annually.
+Multimedia festival livestreamed annually.
 
 Live visuals ANYWHEREBUTHERE!, Shifting Perspectives, DJ Re:Code, Ryan Leahan 2026
 
